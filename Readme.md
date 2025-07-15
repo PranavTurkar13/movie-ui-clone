@@ -54,7 +54,7 @@ Netflix Clone/
 
 ## 🌐 Live Demo
 
-> [🔗 View Live (GitHub Pages)](https://pranavturkar13.github.io/Netflix-Clone/) 
+> [🔗 View Live (GitHub Pages)](https://pranavturkar13.github.io/movie-ui-clone/) 
 
 ---
 
