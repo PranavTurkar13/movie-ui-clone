@@ -54,8 +54,7 @@ Netflix Clone/
 
 ## 🌐 Live Demo
 
-> [🔗 View Live (GitHub Pages)](https://your-username.github.io/Netflix-Clone)  
-_(Replace this link with your own after publishing)_
+> [🔗 View Live (GitHub Pages)](https://pranavturkar13.github.io/Netflix-Clone/) 
 
 ---
 
